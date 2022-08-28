@@ -1,6 +1,6 @@
 # Front End App
 
-[![CircleCI](https://circleci.com/gh/Ajay233/react_redux_front_end.svg?style=svg)](https://circleci.com/gh/Ajay233/react_redux_front_end)
+[![CircleCI](https://circleci.com/gh/Ajay233/react_redux_front_end.svg?style=svg)](https://circleci.com/gh/Ajay233/Quiz_Manager_Front_End)
 
 ## Background
 

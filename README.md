@@ -4,7 +4,7 @@
 
 ## Background
 
-This app has been created as a practice project to trial the use of React and Redux to build a front end app.  The front end app links to a back end API app that serves the front end.  The back end repo is at: https://github.com/Ajay233/stand_alone_api
+This app has been created as a practice project to trial the use of React and Redux to build a front end app.  The front end app links to a back end API app that serves the front end.  The back end repo is at: https://github.com/Ajay233/Quiz_Manager_API
 
 ## The live app
 
